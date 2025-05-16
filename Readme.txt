@@ -1,4 +1,6 @@
-Building a Ray Tracer for assignment 3:
+Building a Ray Tracer for UVIC assignment 3:
+
+A basic raytracer where the user can input a specific formatted file to the program. The Raytracer will display the scene using ADS lighting, reflection, and shadow. This raytracer outputs as a PPM formatted file.
 
 Import needed to run
 - sys, os, numpy, math, time
